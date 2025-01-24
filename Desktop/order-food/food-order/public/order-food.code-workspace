@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../.."
+	},
+	{
+		"path": "../../../Project/dadapakha"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "order-food"
+  }
+}
